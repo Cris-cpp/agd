@@ -1,4 +1,4 @@
-#Age and Gender Detection using Deep Learning
+Age and Gender Detection using Deep Learning
 Description
 This project uses a deep learning model to detect age and gender from facial images. The model is based on convolutional neural networks (CNN) and is integrated into a user-friendly GUI created using Tkinter and OpenCV. The application allows users to upload an image, recognize the face in the image, and predict the age and gender of the person.
 
@@ -27,10 +27,7 @@ pip install tensorflow opencv-python pillow numpy
 Step 2: Clone the Repository
 Clone the repository to your local machine:
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/age-gender-detection.git
+
 Step 3: Download Pre-trained Model
 Download the pre-trained Age_Sex_Detection.keras model file from the link provided in the project or use your own trained model.
 
