@@ -1,5 +1,6 @@
+
 keras==3.9.2
 numpy==2.2.4
 Pillow==11.1.0
 streamlit==1.44.1
-Cv2
+opencv-python
